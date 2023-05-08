@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Adrian Cygan</h1>
+<h1 align="center">Hello There! <img src="https://www.pngall.com/wp-content/uploads/9/Star-Wars-Obi-Wan-Kenobi-PNG-Download-Image.png" height="25px"> I'm Adrian Cygan</h1>
 
 ### About
 - Student of Computer Science at Cracow University of Technology
