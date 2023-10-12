@@ -5,9 +5,7 @@
 
 - I am a member of COSMO PK science club, working on the <a href="https://habsat.pl/" target="_blank" >HABsat project</a>
 
-- Currently I'm learning Angular 2+
-
-- I'm seeking summer internship as Front-end Developer
+- Software Developer at Comarch S.A.
 
 - acygan51@gmail.com
 
@@ -24,6 +22,10 @@
 
 ## Technologies I use
 <div>
+  <a href="https://angular.io/" rel="noreferrer" target="_blank">
+      <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png" height="32px">
+  </a>
+  &nbsp;
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">
   </a>
@@ -48,10 +50,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" height="30px">
   </a>
   &nbsp;
-   <a href="https://angular.io/" rel="noreferrer" target="_blank">
-      <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png" height="32px">
-  </a>
-  &nbsp;
    <a href="https://styled-components.com/" rel="noreferrer" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="30px">
   </a>
@@ -61,6 +59,10 @@
 <div>
   <a href="https://www.python.org/" rel="noreferrer" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" alt="python" height="25px"> 
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/" rel="noreferrer" target="_blank">
+    <img src="https://jaki-jezyk-programowania.pl/img/technologies/csharp.png" alt="python" height="25px"> 
   </a>
   &nbsp;
   <a href="https://devdocs.io/cpp/"  rel="noreferrer" target="_blank">
