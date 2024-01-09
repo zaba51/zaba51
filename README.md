@@ -23,7 +23,7 @@
 ## Technologies I use
 <div>
   <a href="https://angular.io/" rel="noreferrer" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="32px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="35px">
   </a>
   &nbsp;
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
@@ -75,5 +75,9 @@
   &nbsp;
   <a href="https://mariadb.org/" rel="noreferrer" target="_blank">
      <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" height="25px">
+  </a>
+    &nbsp;
+  <a href="https://www.postgresql.org/" rel="noreferrer" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="mariadb" height="25px">
   </a>
  </div>
