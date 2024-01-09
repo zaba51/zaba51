@@ -23,7 +23,7 @@
 ## Technologies I use
 <div>
   <a href="https://angular.io/" rel="noreferrer" target="_blank">
-      <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png" height="32px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="32px">
   </a>
   &nbsp;
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
