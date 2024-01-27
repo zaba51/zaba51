@@ -26,6 +26,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="35px">
   </a>
   &nbsp;
+  <a href="https://dotnet.microsoft.com/" rel="noreferrer" target="_blank">
+      <img src="https://www.chillcode.org/img/Icons/icon_NET_Core_Logo.png" height="35px">
+  </a>
+  &nbsp;
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">
   </a>
