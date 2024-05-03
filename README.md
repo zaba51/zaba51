@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/" rel="noreferrer" target="_blank">
-      <img src="https://www.chillcode.org/img/Icons/icon_NET_Core_Logo.png" height="35px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" height="35px">
   </a>
   &nbsp;
   <a href="https://react.dev/" rel="noreferrer" target="_blank">
