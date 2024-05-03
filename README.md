@@ -84,4 +84,12 @@
   <a href="https://www.postgresql.org/" rel="noreferrer" target="_blank">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="mariadb" height="25px">
   </a>
+    &nbsp;
+  <a href="https://www.mongodb.com/" rel="noreferrer" target="_blank">
+     <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mariadb" height="28px">
+  </a>
+    &nbsp;
+  <a href="https://www.docker.com/" rel="noreferrer" target="_blank">
+     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="mariadb" height="28px">
+  </a>
  </div>
